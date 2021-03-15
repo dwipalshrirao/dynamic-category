@@ -25,7 +25,7 @@ SECRET_KEY = 't0i+g53tiv*xm93$(m93=xk)^fctz9!-93njrr@vy7jvtt4(rq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['dynamicategories.herokuapp.com/']
+ALLOWED_HOSTS = ['dynamicategories.herokuapp.com']
 
 
 # Application definition
