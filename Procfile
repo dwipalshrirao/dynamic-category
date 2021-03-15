@@ -1,0 +1,1 @@
+web: gunicorn dynamicnav.wsgi --log-file -
